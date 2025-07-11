@@ -17,3 +17,9 @@ cd port-scanner
 
 # Run scanner:
 python port_scanner.py <target> <start_port> <end_port> [--output results.txt]
+
+EXAMPLE:
+        python port_scanner.py 127.0.0.1 20 100 --output results.txt
+
+✅ Note: Always scan only hosts you own or have permission for!
+
