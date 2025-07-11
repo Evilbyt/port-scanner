@@ -12,8 +12,8 @@ A Python tool that scans a target host for open TCP ports, grabs banners from op
 ## ⚙️ Usage
 
 ```bash
-git clone https://github.com/YOURUSERNAME/simple-port-scanner.git
-cd simple-port-scanner
+git clone https://github.com/Evilbyt/port-scanner.git
+cd port-scanner
 
 # Run scanner:
 python port_scanner.py <target> <start_port> <end_port> [--output results.txt]
