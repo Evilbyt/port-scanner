@@ -22,6 +22,5 @@ EXAMPLE:
         python port_scanner.py 127.0.0.1 20 100 --output results.txt
 
 ✅ Note: Always scan only hosts you own or have permission for!
-<img width="1920" height="1116" alt="image" src="https://github.com/user-attachments/assets/e5d23460-f006-4515-aaca-b8aea6a1f00f" />
 
 
